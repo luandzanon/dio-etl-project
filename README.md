@@ -13,7 +13,7 @@ Replicar um fluxo prático de tratamento de dados:
 
 * **Python**
 * **Pandas** (Manipulação de dados)
-* **OpenAI API** (Opcional, para geração de texto via IA)
+* **OpenAI API** (Opcional, para geração de texto via IA. Não utilizado nesse desafio.)
 
 ## Como Executar
 
@@ -22,8 +22,8 @@ Replicar um fluxo prático de tratamento de dados:
     ```bash
     pip install pandas openai
     ```
-3.  Execute o script principal para processar o arquivo `SDW2023.csv` (ou a lista interna) e gerar as saídas.
+3.  Execute o script principal para processar o arquivo `dirty_cafe_sales.csv` e gerar as saídas.
 
 ## Estrutura
 
-O código foca na resiliência da aplicação, permitindo que o estudo continue mesmo sem a disponibilidade da API oficial, utilizando arquivos locais como fonte de dados.
+O código foca na resiliência da aplicação, permitindo que o estudo continue mesmo sem a disponibilidade da API oficial, utilizando .csv como fonte de dados.
