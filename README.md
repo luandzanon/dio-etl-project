@@ -5,8 +5,8 @@ Este projeto explora os conceitos fundamentais de Engenharia de Dados e Ciência
 ## 🎯 Objetivo
 
 Replicar um fluxo prático de tratamento de dados:
-1.  **Extração:** Leitura de dados de usuários a partir de arquivos CSV ou listas (solução alternativa à API).
-2.  **Transformação:** Utilização de IA (ou lógica de script) para gerar mensagens de marketing personalizadas.
+1.  **Extração:** Leitura de dados a partir de arquivos CSV ou listas (solução alternativa à API).
+2.  **Transformação:** Limpeza dos dados para serem utilizados.
 3.  **Carregamento:** Salvamento dos novos dados transformados em um arquivo de saída.
 
 ## Tecnologias
